@@ -1,0 +1,34 @@
+HTTP/1: The Old Way
+
+Imagine you're sending letters to your friend, but you have to send each letter separately.
+ That's a bit like how HTTP/1 works. When your computer wants to see a webpage, it has to 
+ask for different parts (like pictures, text, and videos) one by one. Just like sending 
+separate letters, this can take some time.
+
+HTTP/2: The New & Smart Way
+
+Now, think about putting all those letters in one big envelope and sending them together.
+That's what HTTP/2 does. It bundles up all the things a webpage needs and sends them 
+all at once. This means your computer gets everything it wants in a quicker, more organized 
+way.
+
+Main Differences:-
+
+Piece by Piece vs. All Together: HTTP/1 sends website parts one after the other,
+ while HTTP/2 sends them together, making things faster.
+
+Waiting in Line vs. All Together: With HTTP/1, your computer has to wait for one part 
+to arrive before asking for the next. HTTP/2 lets your computer ask for many things all at once, no waiting in line.
+
+Efficiency: HTTP/2 is like a smarter way of packing stuff, so there's less unnecessary 
+stuff to send. This makes everything speed up.
+
+Surprise Delivery: In HTTP/2, the website can even send things to your computer before
+ it asks for them. It's like getting a surprise gift before you even knew you wanted it.
+
+
+* HTTP/1 and HTTP/2 are like the old way and the new way of delivering internet stuff. 
+HTTP/2 is like the superhero version – it bundles things up, gets them to your
+ computer faster, and even gives you surprises.
+ So, the next time you click on a website, remember that there's a cool delivery 
+system making sure you get everything super quickly and efficiently.
