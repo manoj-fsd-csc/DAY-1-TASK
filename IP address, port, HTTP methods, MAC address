@@ -1,0 +1,25 @@
+IP Address:
+An IP address is like a special address for your computer or phone on the internet.
+ It's like your home's unique address, but for the digital world. Computers use IP
+ addresses to find each other and communicate, just like sending letters to the right house.
+
+Port:
+Imagine a shipyard with different docks for different types of cargo. Ports in computers
+ are a bit like these docks. They help different programs on your device communicate with 
+each other. When data arrives at your device, the port helps decide which program should 
+handle it, just like choosing the right dock for a shipment.
+
+HTTP Methods:
+When you visit a website, your computer sends requests to get information. These requests
+ can be like asking for a page, sending data, or deleting something. HTTP methods are
+ like the words you use to tell the website what you want to do. For example, "GET" asks 
+for a page, "POST" sends new info, and "DELETE" removes something.
+
+MAC Address:
+Think of a MAC address as a serial number for your device's network card. It's unique to 
+each device, like a fingerprint. When devices talk to each other in a local network, they
+ use MAC addresses to know who's who. It's like recognizing your friends by their special 
+secret handshake.
+
+
+
